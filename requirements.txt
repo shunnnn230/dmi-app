@@ -2,3 +2,10 @@ streamlit
 yfinance
 ta
 pandas
+xlrd>=2.0.1
+openpyxl>=3.1
+numpy
+plotly
+beautifulsoup4
+requests
+lxml
